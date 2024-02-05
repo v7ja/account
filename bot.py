@@ -54,8 +54,7 @@ def malomat(maile):
 username = {user} | email = {maile}
 FoLLoWeRs = {folowers} | DaTe = {date}
 ReSt = {rest} | FoLLoWinG = {folwing}
-bY * @v_LvL , After | print(timee)
- '''
+bY * @v_LvL , After | print(timee)'''
 				send(X)
 def randome():
         bade=0
