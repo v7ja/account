@@ -1,12 +1,11 @@
-try:
-	from DARKI7X import HITS
-	import webbrowser
-	from LegendsLIB import *
-	from VENOMgetREST import *
- import time
-	import random,requests, os, DARKI7X, threading
-	from user_agent import generate_user_agent
-	from datetime import date
+from DARKI7X import HITS
+import webbrowser
+from LegendsLIB import *
+from VENOMgetREST import *
+import time
+import random,requests, os, DARKI7X, threading
+from user_agent import generate_user_agent
+from datetime import date
 
 timee=time.asctime()
 #__________________
