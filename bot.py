@@ -22,7 +22,7 @@ PN='\033[1;35m' #BINK
 #__'____________'
 
 
-ID=input("EnTeR iD : )
+ID=input("EnTeR iD : ")
 Token=input("EnTeR ToKeN : ")
 def send(X):
 				global Token, ID
