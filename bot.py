@@ -3,7 +3,7 @@ try:
 	import webbrowser
 	from LegendsLIB import *
 	from VENOMgetREST import *
-    import time
+ import time
 	import random,requests, os, DARKI7X, threading
 	from user_agent import generate_user_agent
 	from datetime import date
